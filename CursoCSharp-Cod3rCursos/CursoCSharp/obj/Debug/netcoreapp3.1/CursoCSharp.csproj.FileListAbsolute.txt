@@ -11,3 +11,16 @@ C:\Users\PRINCIPAL\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\
 C:\Users\PRINCIPAL\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.dll
 C:\Users\PRINCIPAL\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.pdb
 C:\Users\PRINCIPAL\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.genruntimeconfig.cache
+C:\Users\PRINCIPAL\Documents\MeusProjetos\learning\CursoCSharp-Cod3rCursos\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.exe
+C:\Users\PRINCIPAL\Documents\MeusProjetos\learning\CursoCSharp-Cod3rCursos\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.deps.json
+C:\Users\PRINCIPAL\Documents\MeusProjetos\learning\CursoCSharp-Cod3rCursos\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.runtimeconfig.json
+C:\Users\PRINCIPAL\Documents\MeusProjetos\learning\CursoCSharp-Cod3rCursos\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.runtimeconfig.dev.json
+C:\Users\PRINCIPAL\Documents\MeusProjetos\learning\CursoCSharp-Cod3rCursos\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.dll
+C:\Users\PRINCIPAL\Documents\MeusProjetos\learning\CursoCSharp-Cod3rCursos\CursoCSharp\bin\Debug\netcoreapp3.1\CursoCSharp.pdb
+C:\Users\PRINCIPAL\Documents\MeusProjetos\learning\CursoCSharp-Cod3rCursos\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csprojAssemblyReference.cache
+C:\Users\PRINCIPAL\Documents\MeusProjetos\learning\CursoCSharp-Cod3rCursos\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\PRINCIPAL\Documents\MeusProjetos\learning\CursoCSharp-Cod3rCursos\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.AssemblyInfo.cs
+C:\Users\PRINCIPAL\Documents\MeusProjetos\learning\CursoCSharp-Cod3rCursos\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\PRINCIPAL\Documents\MeusProjetos\learning\CursoCSharp-Cod3rCursos\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.dll
+C:\Users\PRINCIPAL\Documents\MeusProjetos\learning\CursoCSharp-Cod3rCursos\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.pdb
+C:\Users\PRINCIPAL\Documents\MeusProjetos\learning\CursoCSharp-Cod3rCursos\CursoCSharp\obj\Debug\netcoreapp3.1\CursoCSharp.genruntimeconfig.cache
